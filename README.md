@@ -21,5 +21,9 @@ If you are interested in looking at the code, bear in mind:
 
 The upshot of this is that the Java code was written in a fundamentally different way from which one might choose today. For example, there's a lot of byte-array manipulation; one, because the C code was written that way, and two, because string processing was very slowly in early Java (300 times slower than byte arrays).
 
+<b>C# Update</b>
+
+You'll also find a directory with converted Java to C# code. This is part of a learning program. My son is studying Computer Science at college. The language of instruction is C#, so I'm using the ZaraStar code to help him understand how C# fits in to the wider programming world.
+
 Chris Harvey
 September 2018
