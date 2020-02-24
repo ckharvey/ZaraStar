@@ -1,7 +1,7 @@
 # ZaraStar
 ZaraStar ERP++
 
-This is the repository for the ZaraStar open-source project. The main site is https://zarastar.xyz
+This is the repository for the ZaraStar open-source project.
 
 At this time, here is the original source code for the project that started in 1998 and wound-down in 2016. ZaraStar is a comprehensive ERP application principally written in Java on the back-end. Embedded JDBC calls to a MySQL database (running initially on the Apache web server and Tomcat servlet container; but latterly on Tomcat alone), generated HTML and JavaScript. Other run-time support was through CSS and JavaScript loads.
 
